@@ -11,3 +11,5 @@ RoxygenNote: 7.3.3
 Imports: 
     grDevices,
     stringr
+URL: https://github.com/JenniferLopes/cookbook
+BugReports: https://github.com/JenniferLopes/cookbook/issues
